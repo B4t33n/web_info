@@ -2,8 +2,10 @@
 
 web_info is a simple code for python
 
+# run in termux
 
-#run in termux$ apt update
+
+$ apt update
 
 $ apt upgrade
 
